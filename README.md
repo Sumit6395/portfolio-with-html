@@ -70,14 +70,14 @@
                                 <td><pre>   2017   </pre></td>
                             </tr>
 
-                            <tr>
+                           <!--<tr>
                                 <td><pre>12th   </pre></td>
                                 <td><pre>   P R T S INT COLL    <br></pre></td>
                                 <td><pre>   UP   </pre></td>
                                 <td><pre>   Shikohabad   </pre></td>
                                 <td><pre>   84   </pre></td>
                                 <td><pre>   2019   </pre></td>
-                            </tr>
+                            </tr>-->
 
                             <tr>
                                 <td><pre>B.Sc   </pre></td>
